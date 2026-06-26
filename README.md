@@ -1,4 +1,4 @@
-# 🛡️ JARVIS Website Security Scanner
+# 🛡️ AI Website Security Scanner
 
 A Python-based **website security analysis simulator** that performs a visual security scan process and generates a website safety report.
 
